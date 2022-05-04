@@ -9,7 +9,7 @@ body {
 
 core-progress-bar {
     --core-progressbar-height: 4px;
-    --core-progressbar-color: red;
-    --core-progressbar-text-color: green;
-    --core-progressbar-background: blue;
+    --core-progressbar-color: green;
+    --core-progressbar-text-color: white;
+    --core-progressbar-background: purple;
 }
