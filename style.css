@@ -1,5 +1,6 @@
 body {
-    --brand-color: purple;
+    --core-header-toolbar-background: red;
+    --core-header-toolbar-color: white;
 }
 
 :root ion-tab-bar.mainmenu-tabs {
