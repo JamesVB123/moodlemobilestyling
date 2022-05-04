@@ -1,15 +1,15 @@
 body {
-    --core-header-toolbar-background: purple;
+    --core-header-toolbar-background: #86338B;
     --core-header-toolbar-color: white;
 }
 
 :root ion-tab-bar.mainmenu-tabs {
-                     --color-selected: green;
+                     --color-selected: #8BB126;
                      }
 
 core-progress-bar {
     --core-progressbar-height: 4px;
-    --core-progressbar-color: green;
-    --core-progressbar-text-color: purple;
+    --core-progressbar-color: #8BB126;
+    --core-progressbar-text-color: #86338B;
     --core-progressbar-background: white;
 }
