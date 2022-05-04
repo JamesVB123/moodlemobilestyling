@@ -4,5 +4,5 @@ body {
 }
 
 :root ion-tab-bar.mainmenu-tabs {
-                     --color-selected: purple ;
+                     --color-selected: green-dark ;
                      }
