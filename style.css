@@ -4,5 +4,12 @@ body {
 }
 
 :root ion-tab-bar.mainmenu-tabs {
-                     --color-selected: cyan;
+                     --color-selected: green;
                      }
+
+core-progress-bar {
+    --core-progressbar-height: 4px;
+    --core-progressbar-color: red;
+    --core-progressbar-text-color: green;
+    --core-progressbar-background: blue;
+}
