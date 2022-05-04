@@ -13,3 +13,7 @@ core-progress-bar {
     --core-progressbar-text-color: #86338B;
     --core-progressbar-background: white;
 }
+
+ion-button {
+    --background: #00AEEA;
+}
